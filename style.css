@@ -1,0 +1,179 @@
+.WelcomeBack {
+    width: 381px; 
+    height: 532px; 
+    position: relative;
+    background-color: #000000;
+}
+.Rectangle3 {
+    width: 265px; 
+    height: 29px; 
+    left: 53px; 
+    top: 415px; 
+    position: absolute; 
+    background: #3828F2; 
+    border-radius: 20px;
+}
+.Vector2 {
+    width: 328.50px; 
+    height: 0px; 
+    left: 24.50px; 
+    top: 390px; 
+    position: absolute; 
+    border: 0.50px white solid;
+}
+.Vector3 {
+    width: 380.57px; 
+    height: 532px; 
+    border: 2px #821ED1 solid;
+}
+.Frame1 {
+    width: 100px; 
+    height: 100px; 
+    left: 122px; 
+    top: 17px; 
+    position: absolute;
+}
+.Icon1 {
+    width: 400px; 
+    height: 100px; 
+    left: -9px; 
+    top: -12px; 
+    position: absolute;
+}
+.Icon2 {
+    width: 155px; 
+    height: 57px; 
+    left: 106px; 
+    top: 179px; 
+    position: absolute;
+}
+.Rectangle1 {
+    width: 374px; 
+    height: 86px; 
+    left: 0px; 
+    top: 0px; 
+    position: absolute;
+}
+.Vector1 {
+    width: 381px; 
+    height: 0px;
+    top: 80px; 
+    position: absolute; 
+    border: 0.50px white solid;
+}
+.Twitter {
+    width: 35px; 
+    height: 33px; 
+    left: 172px; 
+    top: 494px; 
+    position: absolute;
+    cursor: pointer;
+}
+.Discord {
+    width: 40px; 
+    height: 33px; 
+    left: 216px; 
+    top: 494px; 
+    position: absolute;
+    color: #3828F2;
+    cursor: pointer;
+}
+.popup-content {
+    width: 381px;
+    height: 532px;
+    position: absolute;
+    left: 0;
+    top: 0;
+    padding: 20px;
+    box-sizing: border-box;
+}
+
+.welcome-text {
+    color: white;
+    font-size: 20px;
+    font-family: Inter, sans-serif;
+    font-weight: 400;
+    letter-spacing: 1px;
+    line-height: 1.4;
+    text-align: center;
+    position: absolute;
+    top: 220px;
+    left: 80px;
+
+}
+
+.powered-by {
+    color: #DDBF53;
+    font-size: 14px;
+    font-family: Inter, sans-serif;
+    font-weight: 400;
+    letter-spacing: 0.7px;
+    position: absolute;
+    top: 305px;
+    left: 112px;
+}
+
+.welcome-back {
+    color: #525050;
+    font-size: 24px;
+    font-family: Inter, sans-serif;
+    font-weight: 600;
+    position: absolute;
+    top: 323px;
+    left: 100px;
+}
+
+.password-label {
+    color: #CABBBB;
+    font-size: 14px;
+    font-family: Inter, sans-serif;
+    font-weight: 600;
+    position: absolute;
+    top: 367px;
+    left: 26px;
+    background: none;
+    border: none;
+    outline: none;
+
+}
+.eye {
+    position: absolute;
+    top: 367px;
+    left: 330px;
+    color: #7c7676;
+}
+#hide1 {
+    display: none;
+}
+
+.unlock-text {
+    color: black;
+    font-size: 16px;
+    font-family: Inter, sans-serif;
+    font-weight: 600;
+    position: absolute;
+    top: 419px;
+    left: 155px;
+    cursor: pointer;
+}
+
+.forgot-password {
+    color: #3828F2;
+    font-size: 12px;
+    font-family: Inter, sans-serif;
+    font-weight: 600;
+    position: absolute;
+    top: 455px;
+    left: 138px;
+    cursor: pointer;
+}
+
+.look-us-up {
+    color: white;
+    font-size: 12px;
+    font-family: Inter, sans-serif;
+    font-weight: 600;
+    position: absolute;
+    top: 503px;
+    left: 95px;
+}
